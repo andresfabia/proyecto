@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(245, 169, 56);
+}
+
+.parrafo {
+    background-color: rgb(214, 142, 34);
+    margin: auto;
+}
+
+h1 {
+    margin: auto;
+    font-weight: bold;
+}
+
+.menu {
+    background-color: rgb(192, 122, 17);
+}
+
+.center {
+    text-align: center;
+}
